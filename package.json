@@ -1,7 +1,7 @@
 {
   "name": "my-portfolio-react",
   "version": "0.1.0",
-  "homepage": "https://dimartoro.github.io/my-portfolio-react",
+  "homepage": "https://dimartoro.github.io/my-portfolio-react/",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.4.0",

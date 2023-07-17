@@ -22,7 +22,7 @@ Create and administered GitHub Repo, merged multiple branches. Technologies used
 My Portfolio shows employers some very interesting applications I have developed.
 
 ## Deployeedurl
-https://dimartoro.github.io/my-portfolio/
+https://dimartoro.github.io/my-portfolio-react/
 
 ## Tests
 Accessing the applications through the Portfolio links will test them.  

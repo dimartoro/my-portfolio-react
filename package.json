@@ -1,6 +1,7 @@
 {
   "name": "my-portfolio-react",
   "version": "0.1.0",
+  "git@github.com":"dimartoro/my-portfolio-react.git",
   "homepage": "https://dimartoro.github.io/my-portfolio-react",
   "private": false,
   "dependencies": {

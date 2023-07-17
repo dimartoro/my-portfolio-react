@@ -21,7 +21,8 @@
     "web-vitals": "^2.1.4"
   },
   "devDependencies": {
-    "gh-pages": "^5.0.0"
+    "gh-pages": "^5.0.0",
+    "github-pages": "^3.0.2"
   },
   "scripts": {
     "predeploy": "npm run build",
@@ -49,5 +50,4 @@
       "last 1 safari version"
     ]
   }
-
 }

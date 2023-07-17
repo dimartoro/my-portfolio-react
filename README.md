@@ -1,5 +1,5 @@
 
-# Diana Castro Portfolio in React
+# Diana Castro React Portfolio
 
 ## Description
 This is my portfolio, a site for prospective employers to go through different applications I have created, and evaluate the different skills I have acquired as a full-stack developer.
@@ -16,13 +16,13 @@ This is my portfolio, a site for prospective employers to go through different a
 - [License](#license)
 
 ## Installation
-Create and administered GitHub Repo, merged multiple branches. Technologies used: React, Node.js.   Access https://github.com/dimartoro/my-portfolio.git for code details. 
+Create and administered GitHub Repo, merged multiple branches. Technologies used: React, Node.js.  Access https://github.com/dimartoro/my-portfolio-react.git for code details. 
 
 ## Usage
 My Portfolio shows employers some very interesting applications I have developed.
 
 ## Deployeedurl
-https://dimartoro.github.io/my-portfolio/
+https://dimartoro.github.io/my-portfolio-react/
 
 ## Tests
 Accessing the applications through the Portfolio links will test them.  
